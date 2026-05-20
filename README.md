@@ -57,7 +57,7 @@ Currently focused on:
 * Deckhouse Kubernetes Platform
 * KubeVirt
 * VMware
-* OpenStack
+* Opennebula
 
 ### Infrastructure
 
@@ -65,7 +65,6 @@ Currently focused on:
 * IBM System x
 * x86 enterprise infrastructure
 * SAN / FC
-* Ceph
 * HA clusters
 
 ### Cloud & Automation
