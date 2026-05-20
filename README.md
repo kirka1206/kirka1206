@@ -1,16 +1,16 @@
-## Hi there 👋
+# Кирилл Терешенко
 
-<!--
-**kirka1206/kirka1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 30+ years in IT
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+1993  | First PC. First command line.
+1995  | IBM Training Center
+2001  | IBM Power / AIX / HA
+2008  | IBM System x / Virtualization
+2010  | Enterprise Infrastructure
+2013  | PureSystems / Integrated Systems
+2014  | Cloud / DR / Enterprise Architecture
+2021  | OpenShift / Kubernetes / Hybrid Cloud
+2023  | Cloud Platform Architecture
+2025  | Kubernetes Presale Architect
+2026  | Still explaining that Kubernetes is not "just Docker"
