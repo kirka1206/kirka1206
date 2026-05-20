@@ -1,6 +1,4 @@
-# Кирилл Терешенко
-
-## 30+ years in IT
+# 30+ years in IT
 
 ```text
 1993  | First PC. First command line.
