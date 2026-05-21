@@ -44,7 +44,6 @@ Currently focused on:
 * Platform presale
 * Technical strategy
 * Enterprise Linux ecosystem
-* импортозамещение enterprise infrastructure
 
 ---
 
@@ -76,14 +75,6 @@ Currently focused on:
 * CI/CD
 * IaC
 
-### Observability
-
-* Prometheus
-* Grafana
-* Loki
-* ELK
-* OpenTelemetry
-
 ---
 
 ## Architecture Areas
@@ -107,7 +98,7 @@ Currently focused on:
 * IBM Cloud & Architecture
 * DevSecOps
 * Enterprise Architecture
-* IBM Power10 Academy
+* IBM Power
 * Architectural Thinking
 * Enterprise Design Thinking
 
@@ -202,5 +193,4 @@ Still architecting.
 Still attending meetings.
 
 System operational.
-Soul degraded.
 ```
