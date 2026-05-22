@@ -3,7 +3,7 @@
 ```text
 1993  | First PC. First command line.
 1995  | IBM Training Center
-      | IBM Power / AIX / HA
+      | IBM Power / AIX / HA / Linux
       | Enterprise Infrastructure
 2010  | IBM System x / Virtualization
 2013  | PureSystems / Integrated Systems
