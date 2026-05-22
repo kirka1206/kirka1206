@@ -4,11 +4,12 @@
 1993  | First PC. First command line.
 1995  | IBM Training Center
       | IBM Power / AIX / HA
-2008  | IBM System x / Virtualization
-2010  | Enterprise Infrastructure
+      | Enterprise Infrastructure
+2010  | IBM System x / Virtualization
 2013  | PureSystems / Integrated Systems
 2014  | Cloud / DR / Enterprise Architecture
 2021  | OpenShift / Kubernetes / Hybrid Cloud
+2022  | Enterprise Infrastructure
 2023  | Cloud Platform Architecture
 2025  | Kubernetes Presale Architect
 2026  | Still explaining that Kubernetes is not "just Docker"
@@ -33,7 +34,6 @@ Worked with:
 * Hybrid Cloud
 * DR / HA architectures
 * Enterprise integration
-* Platform engineering
 
 Currently focused on:
 
@@ -56,15 +56,12 @@ Currently focused on:
 * Deckhouse Kubernetes Platform
 * KubeVirt
 * VMware
-* Opennebula
 
 ### Infrastructure
 
-* IBM Power
-* IBM System x
 * x86 enterprise infrastructure
-* SAN / FC
 * HA clusters
+* Disaster Recovery
 
 ### Cloud & Automation
 
@@ -83,7 +80,6 @@ Currently focused on:
 * Enterprise Kubernetes
 * Disaster Recovery
 * High Availability
-* Platform Engineering
 * Infrastructure Architecture
 * Enterprise Integration
 * Cloud Transformation
