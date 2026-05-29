@@ -68,8 +68,6 @@ Currently focused on:
 * Terraform
 * Ansible
 * GitOps
-* ArgoCD
-* CI/CD
 * IaC
 
 ---
